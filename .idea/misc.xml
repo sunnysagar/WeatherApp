@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/sunny/Pragramming/Android/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/sunny/Pragramming/Android/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/sunny/Pragramming/Android/WeatherApp/app/src/main/res/font/font_family.xml" value="0.1" />
+        <entry key="..\:/sunny/Pragramming/Android/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/sunny/Pragramming/Android/WeatherApp/app/src/main/res/layout/activity_splash.xml" value="0.264" />
       </map>
     </option>
   </component>
